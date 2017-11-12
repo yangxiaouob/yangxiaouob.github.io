@@ -1,0 +1,27 @@
+body {
+	background-color: #feb512;
+}
+h2, h3{
+	text-align: center;
+}
+img{
+	width: 231px;
+	height: 324px;
+	float: left;
+}
+
+.division-one{
+	color: black;
+	width: 400px;
+	height: 250px;
+	float: right;
+}
+
+.division-two{
+	float: right;
+	color: red;
+	padding-top: 50px;
+}
+
+.division-three{
+}
